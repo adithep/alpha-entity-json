@@ -7,7 +7,7 @@
       "last": "SriNarula"
     },
     "email": {
-      "main": "alpha@alpha-films.com"
+      "main_arr": ["alpha@alpha-films.com"]
     },
     "entity_ad": {
       "main": {
@@ -25,7 +25,7 @@
       "last": "Supasert"
     },
     "email": {
-      "main": "casting@alpha-films.com"
+      "main_arr": ["casting@alpha-films.com"]
     },
     "entity_ad": {
       "main": {

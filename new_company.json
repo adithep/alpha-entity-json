@@ -1,9 +1,15 @@
 [
   {
     "_id": "kbq2Wtg6PabRrPzob",
-    "company_n": "Awesome Productions",
-    "email_ad": "awesome@awesome-productions.com",
-    "city_n": "Bangkok",
-    "country_n": "Thailand"
+    "company_n": "Marathon Films",
+    "email": {
+      "main_arr": ["marathon@marathon-films.com"]
+    },
+    "entity_ad": {
+      "main": {
+        "city_n": "Bangkok",
+        "country_n": "Thailand"
+      }
+    }
   }
 ]
