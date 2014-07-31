@@ -1,37 +1,21 @@
 [
   {
     "_id": "AspxCkbin4GbMM8ME",
-    "human_n": {
-      "title": "Mr.",
-      "first": "Adithep",
-      "last": "SriNarula"
-    },
-    "email": {
-      "main_arr": ["alpha@alpha-films.com"]
-    },
-    "entity_ad": {
-      "main": {
-        "city_n": "Bangkok",
-        "country_n": "Thailand"
-      }
-    }
+    "title_n": "Mr.",
+    "first_n": "Adithep",
+    "last_n": "SriNarula",
+    "email_main_arr": ["alpha@alpha-films.com"],
+    "_adr_main_city_n": "Bangkok",
+    "_adr_main_country_n": "Thailand"
   },
 
   {
     "_id": "RFv77zNnouQ9qygHa",
-    "human_n": {
-      "title": "Mr.",
-      "first": "Vivat",
-      "last": "Supasert"
-    },
-    "email": {
-      "main_arr": ["casting@alpha-films.com"]
-    },
-    "entity_ad": {
-      "main": {
-        "city_n": "Bangkok",
-        "country_n": "Thailand"
-      }
-    }
+    "title_n": "Mr.",
+    "first_n": "Vivat",
+    "last_n": "Supasert",
+    "email_main_arr": ["casting@alpha-films.com"],
+    "_adr_main_city_n": "Bangkok",
+    "_adr_main_country_n": "Thailand"
   }
 ]
